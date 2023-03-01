@@ -56,6 +56,16 @@ ______________
     > - Train an unsupervised learning model to create new data.
     > - Use that new data to turn the problem into a supervised learning problem.
     > - Compare the performance of this new approach to more established approaches.
+______________
+- 4 - Workshop Assessment - Building and training an Xgboost model, an autoencoder neural network and etecting anomalies using different thresholding methods:
+  - [Workshop Assessment](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment.ipynb) - Notebook;
+  - [Assessment-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-preprocess_data.py) - Script;
+  - [Assessment-Presentation](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-Presentation.pptx) - Slides;
+<br></br>
+  > Learn how to detect anomalies using GANs:
+    > - Train an unsupervised learning model to create new data.
+    > - Use that new data to turn the problem into a supervised learning problem.
+    > - Compare the performance of this new approach to more established approaches.
 
 <a name="certificate"></a>
 ## Certificate
