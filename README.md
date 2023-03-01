@@ -38,8 +38,9 @@ The description of the files in this repository can be found bellow:
     > - Assess and improve your model’s performance before deployment.
 ______________
 - 2 - Anomaly Detection in Network Data Using GPU-Accelerated Autoencoder:
-  - [Lab2-LSTM-For-Timeseries](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab2-LSTM-For-Timeseries.ipynb) - Notebook;
-  - [Lab2-Presentation_202208](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab2-Presentation_202208.pptx) - Slides;
+  - [Lab2-Network Anomaly Detection using Autoencoders](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab2-Network%20Anomaly%20Detection%20using%20Autoencoders.ipynb) - Notebook;
+  - [Lab2-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab2-preprocess_data.py) - Script;
+  - [Lab2-Presentation](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab2-Presentation.pptx) - Slides;
 <br></br>
   > Learn how to detect anomalies using modern unsupervised learning:
     > - Build and train a deep learning-based autoencoder to work with unlabeled data.
