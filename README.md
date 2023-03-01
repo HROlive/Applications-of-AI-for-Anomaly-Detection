@@ -48,9 +48,9 @@ ______________
     > - Explore other applications of GPU-accelerated autoencoders.
 ______________
 - 3 - Anomaly Detection in Network Data Using GANs:
-  - [Lab3-AE-For-Anomaly-Detection](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab3-AE-For-Anomaly-Detection.ipynb) - Notebook;
-  - [Lab3-Presentation_202208](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab3-Presentation_202208.pptx) - Slides;
-  - [assignment](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/assignment.py) - Assessement;
+  - [Lab3-Anomaly Detection in Network Data using GANS](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab3-Anomaly%20Detection%20in%20Network%20Data%20using%20GANS.ipynb) - Notebook;
+  - [Lab3-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab3-preprocess_data.py) - Script;
+  - [Lab3-Presentation](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab3-Presentation.pptx) - Slides;
 <br></br>
   > Learn how to detect anomalies using GANs:
     > - Train an unsupervised learning model to create new data.
