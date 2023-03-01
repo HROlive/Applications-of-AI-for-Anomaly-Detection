@@ -28,8 +28,9 @@ More detailed information and links for the course can be found on the [course w
 
 The description of the files in this repository can be found bellow:
 - 1 - Anomaly Detection in Network Data Using GPU-Accelerated XGBoost:
-  - [Lab1-XGBoost-For-Timeseries](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab1-XGBoost-For-Timeseries.ipynb) - Notebook;
-  - [Lab1-Presentation_202208](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance/blob/main/Lab1-Presentation_202208.pptx) - Slides;
+  - [Lab1-Anomaly Detection in Network Data using GPU-Accelerated XGBoost](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab1-Anomaly%20Detection%20in%20Network%20Data%20using%20GPU-Accelerated%20XGBoost.ipynb) - Notebook;
+  - [Lab1-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab1-preprocess_data.py) - Script;
+  - [Lab1-Presentation](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab1-Presentation.pptx) - Slides;
 <br></br>
   > Learn how to detect anomalies using supervised learning:
     > - Prepare data for GPU acceleration using the provided dataset.
