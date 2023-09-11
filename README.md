@@ -26,7 +26,7 @@ More detailed information and links for the course can be found on the [course w
 <a name="files"></a>
 ## File descriptions
 
-The description of the files in this repository can be found bellow:
+The description of the files in this repository can be found below:
 - 1 - Anomaly Detection in Network Data Using GPU-Accelerated XGBoost:
   - [Lab1-Anomaly Detection in Network Data using GPU-Accelerated XGBoost](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab1-Anomaly%20Detection%20in%20Network%20Data%20using%20GPU-Accelerated%20XGBoost.ipynb) - Notebook;
   - [Lab1-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab1-preprocess_data.py) - Script;
@@ -57,7 +57,7 @@ ______________
     > - Use that new data to turn the problem into a supervised learning problem.
     > - Compare the performance of this new approach to more established approaches.
 ______________
-- 4 - Workshop Assessment - Building and training an Xgboost model, an autoencoder neural network and etecting anomalies using different thresholding methods:
+- 4 - Workshop Assessment - Building and training an Xgboost model, an autoencoder neural network and detecting anomalies using different thresholding methods:
   - [Workshop Assessment](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment.ipynb) - Notebook;
   - [Assessment-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-preprocess_data.py) - Script;
   - [Assessment-Presentation](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-Presentation.pptx) - Slides;
@@ -70,6 +70,6 @@ ______________
 <a name="certificate"></a>
 ## Certificate
 
-The certificate for the workshop can be found bellow:
+The certificate for the workshop can be found below:
 
 ["Applications of AI for Anomaly Detection" - NVIDIA Deep Learning Institute](https://courses.nvidia.com/certificates/c305381affbb4f24871efb457e0da091/) (Issued On: March 2023)
