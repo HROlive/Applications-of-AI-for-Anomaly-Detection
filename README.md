@@ -72,4 +72,4 @@ ______________
 
 The certificate for the workshop can be found below:
 
-["Applications of AI for Anomaly Detection" - NVIDIA Deep Learning Institute](https://learn.learn.nvidia.com/certificates/bd2428f9116641d9a68fefbaea7aa097) (Issued On: March 2023 - date mismatch because of account change)
+["Applications of AI for Anomaly Detection" - NVIDIA Deep Learning Institute](https://learn.nvidia.com/certificates?id=Fqog-k82S_-37dzkHCcV2A) (Issued On: March 2023 - date mismatch because of account change)
